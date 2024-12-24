@@ -1,6 +1,6 @@
 {
     "name": "@changeLog",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "zPaper",
     "bugs": "https://github.com/ericstephenszpaper/zpaper-sprkz/issues",
     "main": "dist/index.html",
@@ -28,5 +28,5 @@
         "exec": "node ./src/server/api.js"
     },
     "repository": "ericstephenszpaper/zpaper-sprkz",
-    "scripts": {} 
+    "scripts": {}
 }
