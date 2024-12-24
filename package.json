@@ -1,0 +1,32 @@
+{
+    "name": "@changeLog",
+    "version": "1.0.0",
+    "author": "zPaper",
+    "bugs": "https://github.com/ericstephenszpaper/zpaper-sprkz/issues",
+    "main": "dist/index.html",
+    "files": [
+        "dist/**/*"
+    ],
+    "dependencies": {},
+    "devDependencies": {},
+    "engines": {},
+    "overrides": {},
+    "homepage": "https://github.com/ericstephenszpaper/zpaper-sprkz",
+    "keywords": [
+        "lwc"
+    ],
+    "license": "https://zpaper.com/terms-of-use/",
+    "nodemonConfig": {
+        "watch": [
+            "src/server/**/*.js"
+        ],
+        "ext": "js",
+        "ignore": [
+            "src/**/*.spec.js",
+            "src/**/*.test.js"
+        ],
+        "exec": "node ./src/server/api.js"
+    },
+    "repository": "ericstephenszpaper/zpaper-sprkz",
+    "scripts": {} 
+}
