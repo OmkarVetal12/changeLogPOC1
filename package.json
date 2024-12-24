@@ -1,6 +1,6 @@
 {
     "name": "@changeLog",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "zPaper",
     "bugs": "https://github.com/ericstephenszpaper/zpaper-sprkz/issues",
     "main": "dist/index.html",
